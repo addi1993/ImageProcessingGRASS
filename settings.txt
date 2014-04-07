@@ -1,0 +1,14 @@
+IN_RASTR:
+L5_B30
+L5_B10
+L5_B70
+L5_B50
+L5_B60
+OUT:
+out1
+TRAINMAP:
+train
+TRAINGROUP:
+traingroup
+ETALONMAP:
+out_train
